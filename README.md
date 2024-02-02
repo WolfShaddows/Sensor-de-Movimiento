@@ -1,5 +1,5 @@
 ### Sensor de Movimiento
-Conectando un sensor de movimiento PIR y un zumbador a un Arduino Uno, puedes utilizar los siguientes pasos como guía general. Ten en cuenta que las especificaciones exactas pueden variar según el modelo de los componentes y las preferencias de conexión. Aquí tienes una configuración básica:
+Conectando un sensor de movimiento PIR y un zumbador a un Arduino Uno, puedes utilizar los siguientes pasos como guía general. 
 
 #### Sensor de Movimiento PIR (HC-SR501):
 Conexiones:
